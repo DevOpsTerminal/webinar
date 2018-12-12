@@ -5,7 +5,7 @@ The webinar for DevOps development
 + patronite
 
 
-# 2 opcja, Nauka DevOps
+# Nauka DevOps
 
 ## About me
 + Historia
