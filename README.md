@@ -1,6 +1,8 @@
 # webinar
 The webinar for DevOps development
 
+## Donate
++ patronite
 
 # 2 opcja, Nauka DevOps
 ## Plan nauki
